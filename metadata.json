@@ -1,0 +1,6 @@
+{
+  "name": "Mufrodat SMA - Media Pembelajaran Bahasa Arab Interaktif",
+  "description": "Media pembelajaran interaktif bahasa Arab untuk tingkat SMA dengan pembelajaran mufrodat bergambar (sekolah, hewan, profesi), audio lafadz, uji soal & evaluasi nilai, serta absensi siswa online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
